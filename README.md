@@ -117,3 +117,13 @@ https://www.youtube.com/watch?v=_vL8s5ayuFk
 https://www.webdesignerdepot.com/2016/11/12-javascript-libraries-to-watch-in-2017/
 
 https://developer.telerik.com/topics/web-development/javascript-2017-libraries-frameworks/
+
+https://x-team.com/blog/best-react-tutorials-curated-by-x-team/
+
+https://www.sitepoint.com/managing-dates-times-using-moment-js/
+
+https://www.sitepoint.com/creating-beautiful-charts-chart-js/
+
+https://www.sitepoint.com/introduction-chart-js-2-0-six-examples/
+
+https://code.tutsplus.com/tutorials/getting-started-with-chartjs-introduction--cms-28278
